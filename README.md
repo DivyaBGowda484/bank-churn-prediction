@@ -4,6 +4,8 @@
 
 Customer churn is a critical problem for banks, as retaining existing customers is often more cost-effective than acquiring new ones. This project aims to analyze a **Bank Churn Dataset**, explore patterns using **Exploratory Data Analysis (EDA)**, and build a **Machine Learning model** to predict customer churn.
 
+**▶️ Click the image below to watch the project demo:**
+
 [![Watch Demo](https://github.com/DivyaBGowda484/bank-churn-prediction/blob/main/ScreenShot%20-%20Preview.png?raw=true)](https://github.com/DivyaBGowda484/bank-churn-prediction/blob/main/ScreenRecording%20-%20BankChurnWebApp%20Demo.mov?raw=true)
 
 
